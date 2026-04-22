@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\ConsoleApp1\SeachingAlogorithm\SeachingAlogorithm\bin\Debug\net10.0\SeachingAlogorithm.exe
+C:\Users\hp\source\repos\ConsoleApp1\SeachingAlogorithm\SeachingAlogorithm\bin\Debug\net10.0\SeachingAlogorithm.deps.json
+C:\Users\hp\source\repos\ConsoleApp1\SeachingAlogorithm\SeachingAlogorithm\bin\Debug\net10.0\SeachingAlogorithm.runtimeconfig.json
+C:\Users\hp\source\repos\ConsoleApp1\SeachingAlogorithm\SeachingAlogorithm\bin\Debug\net10.0\SeachingAlogorithm.dll
+C:\Users\hp\source\repos\ConsoleApp1\SeachingAlogorithm\SeachingAlogorithm\bin\Debug\net10.0\SeachingAlogorithm.pdb
+C:\Users\hp\source\repos\ConsoleApp1\SeachingAlogorithm\SeachingAlogorithm\obj\Debug\net10.0\SeachingAlogorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ConsoleApp1\SeachingAlogorithm\SeachingAlogorithm\obj\Debug\net10.0\SeachingAlogorithm.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ConsoleApp1\SeachingAlogorithm\SeachingAlogorithm\obj\Debug\net10.0\SeachingAlogorithm.AssemblyInfo.cs
+C:\Users\hp\source\repos\ConsoleApp1\SeachingAlogorithm\SeachingAlogorithm\obj\Debug\net10.0\SeachingAlogorithm.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ConsoleApp1\SeachingAlogorithm\SeachingAlogorithm\obj\Debug\net10.0\SeachingAlogorithm.dll
+C:\Users\hp\source\repos\ConsoleApp1\SeachingAlogorithm\SeachingAlogorithm\obj\Debug\net10.0\refint\SeachingAlogorithm.dll
+C:\Users\hp\source\repos\ConsoleApp1\SeachingAlogorithm\SeachingAlogorithm\obj\Debug\net10.0\SeachingAlogorithm.pdb
+C:\Users\hp\source\repos\ConsoleApp1\SeachingAlogorithm\SeachingAlogorithm\obj\Debug\net10.0\SeachingAlogorithm.genruntimeconfig.cache
+C:\Users\hp\source\repos\ConsoleApp1\SeachingAlogorithm\SeachingAlogorithm\obj\Debug\net10.0\ref\SeachingAlogorithm.dll
