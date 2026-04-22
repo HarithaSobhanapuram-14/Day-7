@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeachingAlogorithm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ed5e0cf37c4b2cb7a9e9d691df70f7316b15f7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeachingAlogorithm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeachingAlogorithm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
